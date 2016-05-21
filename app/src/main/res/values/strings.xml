@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="fnacimiento">Fecha de Nacimiento:</string>
+    <string name="telefono">Tel = </string>
+    <string name="editar">Editar Datos </string>
+</resources>
